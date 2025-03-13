@@ -149,7 +149,7 @@ Error Handling: Always check for errors (e.g., verify that file pointers are not
 Resource Management: Properly closing files with fclose() is crucial to free system resources and prevent data corruption.
 Embedded Use Cases: In embedded systems, file operations might be used for logging sensor data, storing configuration settings, or updating firmware.
 Text vs. Binary: Knowing when to use text mode versus binary mode is important for correct data encoding and decoding.
-Security Practices: Always validate file paths and data to avoid vulnerabilities and ensure secure file operations.
+Security Practices: Always validate file paths and data to avoid vulnerabilities and ensure secure file operations
 Debugging in C
 Definition: Debugging is the process of finding and fixing errors (bugs) in your code to ensure that your program behaves as expected.
 Common Techniques: Techniques include using breakpoints, print statements, and tools like GDB (GNU Debugger) to inspect the state of your program.
